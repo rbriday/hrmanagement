@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+jspm_packages/
+.npm
+
+# Logs and Debugging
+logs
+*.log
+npm-debug.log*
+
+# Environment Variables (Sensitive)
+.env
+.env.test
+
+# Build/Coverage Output
+dist/
+build/
+coverage/
+.next/
+
+# IDE/System Files
+.vscode-test
+.DS_Store
